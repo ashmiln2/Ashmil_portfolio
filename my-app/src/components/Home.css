@@ -1,0 +1,42 @@
+.home{
+display:flex;
+justify-content:space-around;
+align-items:center;
+padding:80px;
+}
+
+.left{
+width:50%;
+}
+
+.left h1{
+font-size:50px;
+}
+
+.left h2{
+color:orange;
+}
+
+.left button{
+
+padding:12px 25px;
+
+margin-top:20px;
+
+border:none;
+
+background:orange;
+
+color:white;
+
+cursor:pointer;
+
+}
+
+.right img{
+
+width:300px;
+
+border-radius:50%;
+
+}
